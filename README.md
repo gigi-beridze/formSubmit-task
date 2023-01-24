@@ -1,5 +1,5 @@
 ```
-Frontend Mentor Easybank landing page challange
+submitForm task
 ```
 View Demo👇: <br />
 https://wonderful-kringle-9999ac.netlify.app/ <br />
